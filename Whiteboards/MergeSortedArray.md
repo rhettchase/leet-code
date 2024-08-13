@@ -41,7 +41,7 @@ Constraints:
 
 ## Whiteboard
 
-![Whiteboard](/img/MergedSortedArray.png)
+![Whiteboard](./img/MergedSortedArray.png)
 
 ## Solution
 
