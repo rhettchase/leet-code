@@ -2,4 +2,4 @@
 
 ## Array / String
 
-- [Problem 88: Merge Sorted Array](./MergeSortedArray.md))
+- [Problem 88: Merge Sorted Array](./Whiteboards/MergeSortedArray.md)
