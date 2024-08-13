@@ -41,9 +41,9 @@ Constraints:
 
 ## Whiteboard
 
-![Whiteboard](Whiteboards/MergeSortedArray.png)
+![Whiteboard](Whiteboards/img/MergeSortedArray.png)
 
 ## Solution
 
-[MergedSortedArray](./LeetCode/MergeSortedArray.cs)
+[MergedSortedArray](../LeetCode/MergeSortedArray.cs)
 
