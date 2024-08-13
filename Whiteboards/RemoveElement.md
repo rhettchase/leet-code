@@ -52,4 +52,4 @@ It does not matter what you leave beyond the returned k (hence they are undersco
 
 ## Solution
 
-[RemoveElement](../LeetCode/RemoveElement.cs)]
+[RemoveElement](../LeetCode/RemoveElement.cs)
