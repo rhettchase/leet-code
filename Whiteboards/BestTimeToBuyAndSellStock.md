@@ -24,7 +24,7 @@ Explanation: In this case, no transactions are done and the max profit = 0.
 
 ## Whiteboard
 
-![Best Time to Buy and Sell Stock](./img/BestTimeToBuyAndSellStock.png)]
+![Best Time to Buy and Sell Stock](./img/BestTimeToBuyAndSellStock.png)
 
 ## Solution
 
