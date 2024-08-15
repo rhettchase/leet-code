@@ -21,6 +21,8 @@ Output: `false`
 
 ## Solution
 
+[IsSubsequence.cs](../LeetCode/IsSubsequence.cs)
+
 ## Big O
 
 - Time complexity: O(n) - In the worst case, the algorithm will scan through the entire string t once, making the time complexity dependent on the length of t. total number of iterations is therefore proportional to the length of t.
