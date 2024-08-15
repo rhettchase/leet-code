@@ -23,3 +23,16 @@ Example 3:
 Input: `ransomNote = "aa", magazine = "aab"`
 Output: `true`
 
+## Whiteboard
+
+![RansomNote](./img/RansomNote.png)
+
+## Solution
+
+[RansomNote.cs](../LeetCode/RansomNote.cs)
+
+## Big O
+
+- Time complexity: O(n) - In the worst case, the algorithm will scan through the entire string magazine once, making the time complexity dependent on the length of magazine. total number of iterations is therefore proportional to the length of magazine.
+
+- Space complexity: O(1)
