@@ -17,3 +17,4 @@
 ## Hashmap
 
 - [Problem 383: Ransom Note](./Whiteboards/RansomNote.md)
+- [Problem 205: Isomorphic Strings](./Whiteboards/IsomorphicStrings.md)
