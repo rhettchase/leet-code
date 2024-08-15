@@ -12,3 +12,7 @@
 ## Two Pointers
 
 - [Problem 392: Is Subsequence](./Whiteboards/IsSubsequence.md)
+
+## Hashmap
+
+- [Problem 383: Ransom Note](./Whiteboards/RansomNote.md)
