@@ -8,6 +8,7 @@
 - [Problem 169: Majority Element](./Whiteboards/MajorityElement.md)
 - [Problem 121: Best Time to Buy and Sell Stock](./Whiteboards/BestTimeToBuyAndSellStock.md)
 - [Problem 58: Length of Last Word](./Whiteboards/LengthOfLastWord.md)
+- [Problem 12: Roman to Integer](./Whiteboards/RomanToInteger.md)
 
 ## Two Pointers
 
