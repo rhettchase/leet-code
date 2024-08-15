@@ -8,3 +8,7 @@
 - [Problem 169: Majority Element](./Whiteboards/MajorityElement.md)
 - [Problem 121: Best Time to Buy and Sell Stock](./Whiteboards/BestTimeToBuyAndSellStock.md)
 - [Problem 58: Length of Last Word](./Whiteboards/LengthOfLastWord.md)
+
+## Two Pointers
+
+- [Problem 392: Is Subsequence](./Whiteboards/IsSubsequence.md)
