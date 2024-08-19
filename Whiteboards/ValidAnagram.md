@@ -23,3 +23,8 @@ Output: `false`
 ## Solution
 
 [ValidAnagram.cs](../LeetCode/ValidAnagram.cs)
+
+## Big O
+
+- Time complexity: O(n) - In the worst case, the algorithm will scan through the entire string once, making the time complexity dependent on the length of the string. total number of iterations is therefore proportional to the length of the string.
+- Space complexity: O(1)
