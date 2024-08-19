@@ -23,3 +23,7 @@
 - [Problem 1: Two Sum](./Whiteboards/TwoSum.md)
 - [Problem 202: Happy Number](./Whiteboards/HappyNumber.md)
 - [Problem 219: Contains Duplicate II](./Whiteboards/ContainsDuplicateII.md)
+
+## Intervals
+
+- [Problem 228: Summary Ranges](./Whiteboards/SummaryRanges.md)
