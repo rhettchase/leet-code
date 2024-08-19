@@ -33,3 +33,8 @@ Output: `[0,1]`
 ## Solution
 
 [TwoSum.cs](../LeetCode/TwoSum.cs)
+
+## Big O
+
+- Time complexity: O(n) - We traverse the array containing `n` elements only once. Each look up in the table costs only O(1) time.
+- Space complexity: O(n) - We need to store n elements in the dictionary.
