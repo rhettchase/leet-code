@@ -20,3 +20,4 @@
 - [Problem 205: Isomorphic Strings](./Whiteboards/IsomorphicStrings.md)
 - [Problem 290: Word Pattern](./Whiteboards/WordPattern.md)
 - [Problem 242: Valid Anagram](./Whiteboards/ValidAnagram.md)
+- [Problem 1: Two Sum](./Whiteboards/TwoSum.md)
