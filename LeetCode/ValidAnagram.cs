@@ -28,7 +28,7 @@ namespace LeetCode
                 if (map.ContainsKey(c))
                 {
                     map[c] -= 1;
-                    if (map[c] == 0)
+                    if (map[c] == 0) // if count is at 0, remove from dictionary
                     {
                         map.Remove(c);
                     }
