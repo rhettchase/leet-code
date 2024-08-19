@@ -19,3 +19,4 @@
 - [Problem 383: Ransom Note](./Whiteboards/RansomNote.md)
 - [Problem 205: Isomorphic Strings](./Whiteboards/IsomorphicStrings.md)
 - [Problem 290: Word Pattern](./Whiteboards/WordPattern.md)
+- [Problem 242: Valid Anagram](./Whiteboards/ValidAnagram.md)
